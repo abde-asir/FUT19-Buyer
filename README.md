@@ -16,12 +16,12 @@ You can join the Slack chat via this invitation URL: [Here](https://join.slack.c
 
 ## Requirements
 
-* DigitalOcean Account - ($100 in Credit if you register using this link - [DigitalOcean](https://m.do.co/c/96b227b93ca5)
+* DigitalOcean Account - ($25 in Credit if you register using this link - [DigitalOcean](https://m.do.co/c/96b227b93ca5)
 * FIFA 19 WebApp Enabled Account
 
 ## Installation
 
-* Create a LAMP Droplet within DigitalOcean (Create Droplet > One-Click Apps -> LAMP on 18.04)
+* Create a LAMP Droplet within DigitalOcean (Create Droplet > One-Click Apps -> LEMP on 18.04)
 * Login to your server via SSH
 * Clone the repository to your server using `git clone https://github.com/InkedCurtis/FUT19-Buyer.git /var/www/buyer/`
 * Navigate to the directory `cd /var/www/buyer/`
