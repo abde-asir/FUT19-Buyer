@@ -21,7 +21,7 @@ You can join the Slack chat via this invitation URL: [Here](https://join.slack.c
 
 ## Installation
 
-* Create a LAMP Droplet within DigitalOcean (Create Droplet > One-Click Apps -> LEMP on 18.04)
+* Create a LAMP Droplet within DigitalOcean (Create Droplet > One-Click Apps -> LAMP on 18.04)
 * Login to your server via SSH
 * Clone the repository to your server using `git clone https://github.com/InkedCurtis/FUT19-Buyer.git /var/www/buyer/`
 * Navigate to the directory `cd /var/www/buyer/`
