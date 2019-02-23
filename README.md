@@ -6,7 +6,7 @@
 
 ## Private Repository
 
-As from today 31st October this repository will no longer be maintained; if you want access to the newly maintained private repository with advanced features such as Chemistry Cards, Position Cards, Private Support, Daily Maintenance & lots more you can purchase this for a one time fee of £25 GBP
+As from today 31st October this repository will no longer be maintained; if you want access to the newly maintained private repository with a much lower risk of being flagged by EA, Advanced features such as Chemistry Cards, Position Cards, One-to-one Support, Daily Maintenance & lots more you can purchase this for a one time fee of £25 GBP
 
 Just simply send a PayPal payment directly to wscrewey@hotmail.com with a note that includes your GitHub username.
 
